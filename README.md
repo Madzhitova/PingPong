@@ -14,4 +14,4 @@
 | Music          | музыка и звуки    |
 
 
-![PingPong](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpythongeeks.org%2Fpython-pong-game-source-code%2F&psig=AOvVaw3SbMXYzD_iGacDMOMr6UFz&ust=1716710940301000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjM7vSsqIYDFQAAAAAdAAAAABAJ)
+![PingPong](https://img.freepik.com/free-vector/ping-pong-concept-illustration_114360-25333.jpg?t=st=1716624922~exp=1716628522~hmac=601681b758eb924bba838dc382d87efd9fbacdb538a11aad35f596cb4cc04e23&w=826)
